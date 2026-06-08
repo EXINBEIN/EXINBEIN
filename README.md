@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @EXINBEIN
-- 👀 I’m interested in Programming and and helping people by building stuffs possible by me
+- 👀 I’m interested in Programming
+- I'm interested in helping people by building stuffs possible by me
+- Let's make this world a better place to live
 - Message me to this number: +91 9633 094 961
