@@ -1,11 +1,3 @@
 - 👋 Hi, I’m @EXINBEIN
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning XXXXX
-- 💞️ I’m looking to collaborate on Full Stack Development
-- 📫 How to reach me ...
-+91 91 48384 961
-
-<!---
-EXINBEIN/EXINBEIN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Programming and and helping people by building stuffs possible by me
+- Message me to this number: +91 9633 094 961
